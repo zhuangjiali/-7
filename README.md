@@ -1,8 +1,8 @@
 # -7
 # 测试作业
 1. 给出iOS开发者设置中的网络模拟的详情数据(截图)
-<img src="https://github.com/zhuangjiali/-7/blob/master/228/0.jpg" width="750" height="1334">
-![img](https://github.com/zhuangjiali/-7/blob/master/228/1.jpg=375*667)
+<img src="https://github.com/zhuangjiali/-7/blob/master/228/0.jpg" width="375" height="667">
+![img](https://github.com/zhuangjiali/-7/blob/master/228/1.jpg)
 ![img](https://github.com/zhuangjiali/-7/blob/master/228/2.jpg)
 ![img](https://github.com/zhuangjiali/-7/blob/master/228/3.jpg)
 ![img](https://github.com/zhuangjiali/-7/blob/master/228/4.jpg)
