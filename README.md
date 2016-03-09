@@ -13,4 +13,4 @@
 
 2. 使用任意抓包工具对任意的app进行抓包, 并给出抓包的截图
 
-<img src="https://github.com/zhuangjiali/-7/blob/master/228/fiddler抓包.bmp" width="375" height="667">
+<img src="https://github.com/zhuangjiali/-7/blob/master/228/fiddler抓包.bmp">
