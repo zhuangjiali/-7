@@ -1,0 +1,30 @@
+# 306 作业
+##1. 反编译任意apk, 并截图
+![img](https://github.com/zhuangjiali/-7/blob/master/306/fby1.png)
+
+##2. aapt 的命令查询权限, 并截图
+![img](https://github.com/zhuangjiali/-7/blob/master/306/aapt1.png)
+
+##3. 编写三种不同切入点的Android monkey的命令, 并成功运行, 同时说明切入点是什么
+	侧重touch
+![img](https://github.com/zhuangjiali/-7/blob/master/306/monkey1.png)
+![img](https://github.com/zhuangjiali/-7/blob/master/306/monkey2.png)
+	侧重switch
+![img](https://github.com/zhuangjiali/-7/blob/master/306/monkey3.png)
+![img](https://github.com/zhuangjiali/-7/blob/master/306/monkey4.png)
+	侧重syskeys
+![img](https://github.com/zhuangjiali/-7/blob/master/306/monkey5.png)
+![img](https://github.com/zhuangjiali/-7/blob/master/306/monkey6.png)
+
+##4. 找出motion和touch对应的源码里的方法, 并找出monkey工具实现点击的最基础的方法是什么
+	motion
+![img](https://github.com/zhuangjiali/-7/blob/master/306/motion.png)
+	touch
+![img](https://github.com/zhuangjiali/-7/blob/master/306/touch.png)
+
+##5. 找到任意一个apk or ipa, 然后去寻找里面的db, 并打开db
+![img](https://github.com/zhuangjiali/-7/blob/master/306/db.png)
+
+##6. mac iOS 在github上找到monkey.js, 去insruments运行, 给出instruments运行 的结果图
+
+##7. 安装idevicestaller, 获取iOS日志
